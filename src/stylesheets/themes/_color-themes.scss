@@ -1,4 +1,5 @@
 //shortcuts
+//having developers write strings ever time they wanted to use a variable, so I added shortcuts at the top of my _color-themes.scss file that simply output strings that match the keys in my $themes object.
 $bg: 'bg';
 $primary-text-color: 'primary-text-color';
 
